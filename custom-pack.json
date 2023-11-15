@@ -1,0 +1,56 @@
+{
+  "black":  [
+    {
+      "pick": 1,
+      "text": "During Farmer Piles latest turf war he found _ in his bed."
+    },
+    {
+      "pick": 1,
+      "text": "How did Pierre La Vinne Get into trouble on his latest away Mission"
+    },
+    {
+      "pick": 1,
+      "text": "Cornielius Kellogg’s latest plot has him put _ in children’s breakfast"
+    },
+    {
+      "pick": 1,
+      "text": "Who got caught in General La Gi’s latest temporal trap"
+    },
+    {
+      "pick": 1,
+      "text": "Quick Piss-Boy _ him"
+    },
+    {
+      "pick": 1,
+      "text": "For naught but a cup of Turpentine I can make Barry do _"
+    },
+    {
+      "pick": 2,
+      "text": " _ + _ = A Balanced Breakfast"
+    },
+    {
+      "pick": 2,
+      "text": "In Tonight’s Latest episode, _ & _ work together to fight Cornelius Kellogg."
+    },
+  ],
+  "white":  [
+    "Farmer Piles",
+    "Pierre La Vinne",
+    "Boy", 
+    "Cornelius Kellogg and his Attack Roosters",
+    "Captain Crunch", 
+    "Tony The Tiger",
+    "Toucan Sam",
+    "General La Gi & Chi Ti Wi Fi",
+    "The Chinese",
+    "Barry Turpentine",
+    "The Turpentots",
+    "The TurpenTerror",
+    "Punished Oakes",
+    "James Workshop",
+    "The Winchester Witch",
+    "Wizard of the Coast",
+    "Monte Cook",
+    "The Jammie Dodger",
+  ]
+}
